@@ -1,0 +1,41 @@
+[
+  {
+    "id": "TKT-1001",
+    "employeeId": "EMP1001",
+    "employeeName": "John S",
+    "email": "john@gmail.com",
+    "category": "VPN",
+    "priority": "High",
+    "subject": "VPN connection is failing",
+    "description": "I am unable to connect",
+    "status": "Pending",
+    "createdAt": "2026-09-16T08:30:00.000Z",
+    "updatedAt": "2026-09-16T08:30:00.000Z"
+  },
+  {
+    "id": "TKT-1002",
+    "employeeId": "EMP1002",
+    "employeeName": "Sam Jr",
+    "email": "sam@gmail.com",
+    "category": "Software",
+    "priority": "Medium",
+    "subject": "Request for development software installation",
+    "description": "Please install the approved software",
+    "status": "In Progress",
+    "createdAt": "2026-09-15T10:15:00.000Z",
+    "updatedAt": "2026-09-16T07:20:00.000Z"
+  },
+  {
+    "id": "TKT-1003",
+    "employeeId": "EMP1003",
+    "employeeName": "Rahul P",
+    "email": "rahul@gmail.com",
+    "category": "Email",
+    "priority": "Critical",
+    "subject": "Corporate Email unavailable",
+    "description": "My corporate mailbox is not available",
+    "status": "Resolved",
+    "createdAt": "2026-09-14T09:45:00.000Z",
+    "updatedAt": "2026-09-15T11:30:00.000Z"
+  }
+]
